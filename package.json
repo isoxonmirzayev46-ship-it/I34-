@@ -1,0 +1,9 @@
+{
+  "name": "i34",
+  "version": "0.1.0",
+  "description": "I34 Modular Intelligence System",
+  "type": "module",
+  "scripts": {
+    "start": "node app/index.js"
+  }
+}
